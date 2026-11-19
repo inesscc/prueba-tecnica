@@ -1,0 +1,17 @@
+{
+  "n_splits": 5,
+  "c_value": 0.5,
+  "class_weight": null,
+  "cv_accuracy_mean": 0.9173740803621957,
+  "cv_accuracy_std": 0.002461962278908454,
+  "cv_macro_f1_mean": 0.7674650591970312,
+  "cv_macro_f1_std": 0.01520478486158698,
+  "cv_weighted_f1_mean": 0.9154493413674546,
+  "oof_accuracy": 0.9173740803621958,
+  "oof_macro_f1": 0.7746094029481527,
+  "oof_weighted_f1": 0.9156640872786282,
+  "n_train_rows": 35340,
+  "n_classes": 79,
+  "n_features": 97988,
+  "fit_seconds": 21.15
+}

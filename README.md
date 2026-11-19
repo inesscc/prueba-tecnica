@@ -4,7 +4,7 @@ Esta prueba ha sido diseñada con el objetivo de evaluar sus conocimientos para 
 
 **Importante**: El archivo debe ser entregado como un *pull request* a la rama master dentro de [este](https://github.com/inesscc/prueba-tecnica) repositorio. Para ello, genere una rama con su nombre y apellido, de la siguiente manera **nombre_apellido**. En caso de que trabaje en python, agregue un archivo **requirements.txt** con las dependencias. Si tiene dificultades para trabajar con el repositorio, podrá entregarlo vía correo en formato .zip, asumiendo un descuento.     
 
-**El uso de herramientas de inteligencia artificial no está prohibido. Si decide trabajar con IA, hágalo de manera reflexiva. Las respuestas de la IA contienen patrones que son fácilmente detectables y que no siempre se adecúan a las especificidades de la tarea que se está desarrollando. Nos interesa conocer su razonamiento sobre los problemas propuestos, de modo que sus comentarios recibirán mucha atención al momento de la evaluación. En varias secciones de la prueba el código valdrá tanto como las justificaciones de sus decisiones**      
+**El uso de herramientas de inteligencia artificial no está prohibido. Si decide trabajar con IA, hágalo de manera reflexiva. Las respuestas de la IA contienen patrones que son fácilmente detectables y que no siempre se adecúan a las especificidades de la tarea que se está desarrollando. Nos interesa conocer su razonamiento sobre los problemas propuestos, de modo que sus comentarios recibirán mucha atención al momento de la evaluación. En varias secciones de la prueba el código valdrá tanto como las justificaciones de sus decisiones**    sdfsdfsdf  
 
 
 
